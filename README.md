@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maliokan
 - I am a university student with a strong passion for Data Science and Artificial Intelligence.
-- With a GPA of 3.91, I am continuously working to enhance my skills, especially in programming languages like Python and Java.
+- With a GPA of 3.94, I am continuously working to enhance my skills, especially in programming languages like Python and Java.
 - My goal is to master AI and machine learning, using these tools to solve complex, real-world problems.
 - Outside of academics, I lead my university’s billiards club, write poetry, and find inspiration in philosophy.
 - I am driven by a desire to constantly grow, both personally and professionally.
