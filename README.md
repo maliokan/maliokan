@@ -2,5 +2,5 @@
 - I am a university student with a strong passion for Cyber.
 - With a GPA of 3.82, I am continuously working to enhance my skills, especially in programming languages like Python and Java.
 - My goal is to master Bash and penetration testing skills, using these tools to solve complex, real-world problems.
-- Outside of academics, I lead my university’s billiards club, write poetry, and find inspiration in philosophy.
+- Outside of academics, I lead my university’s billiards club, write poetry, and take photos of nature.
 - I am driven by a desire to constantly grow, both personally and professionally.
